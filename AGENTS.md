@@ -4,6 +4,8 @@ This guide helps new contributors get started with the OpenAI Agents Python repo
 
 **Location:** `AGENTS.md` at the repository root.
 
+> This file follows the [AGENTS.md](https://github.com/agentsmd/agents.md) open standard, now stewarded by the [Agentic AI Foundation](https://openai.com/index/agentic-ai-foundation/) under the Linux Foundation.
+
 ## Table of Contents
 
 1. [Policies & Mandatory Rules](#policies--mandatory-rules)
